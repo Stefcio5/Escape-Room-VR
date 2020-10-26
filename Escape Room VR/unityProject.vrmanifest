@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.escaperoomvr.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "E:\\Escape Room VR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\Stefcio\\Documents\\Projects\\Unity projects\\Escape-Room-VR\\Escape Room VR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "Escape Room VR [Testing]"
