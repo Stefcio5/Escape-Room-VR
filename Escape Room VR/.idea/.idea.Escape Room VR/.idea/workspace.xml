@@ -10,10 +10,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/test.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/AirSig/Script/AirSigManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Samples/Scripts/InteractableExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/MoveObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/test.cs" />
       </list>
     </option>
   </component>
@@ -63,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603484151789</updated>
       <workItem from="1603484164135" duration="3734000" />
+      <workItem from="1603723442028" duration="12091000" />
     </task>
     <servers />
   </component>

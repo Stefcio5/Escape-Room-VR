@@ -13,6 +13,8 @@ namespace Valve.VR.InteractionSystem.Sample
 	[RequireComponent( typeof( Interactable ) )]
 	public class InteractableExample : MonoBehaviour
     {
+	    
+	    
         private TextMesh generalText;
         private TextMesh hoveringText;
         private Vector3 oldPosition;
@@ -44,6 +46,7 @@ namespace Valve.VR.InteractionSystem.Sample
 		private void OnHandHoverBegin( Hand hand )
 		{
 			generalText.text = "Hovering hand: " + hand.name;
+			
 		}
 
 
@@ -61,7 +64,7 @@ namespace Valve.VR.InteractionSystem.Sample
 		//-------------------------------------------------
 		private void HandHoverUpdate( Hand hand )
 		{
-            GrabTypes startingGrabType = hand.GetGrabStarting();
+			GrabTypes startingGrabType = hand.GetGrabStarting();
             bool isGrabEnding = hand.IsGrabEnding(this.gameObject);
 
             if (interactable.attachedToHand == null && startingGrabType != GrabTypes.None)
