@@ -24,6 +24,7 @@
         <option value="$PROJECT_DIR$/Assets/test.cs" />
         <option value="$PROJECT_DIR$/Assets/Levitation.cs" />
         <option value="$PROJECT_DIR$/Assets/Levitation2.cs" />
+        <option value="$PROJECT_DIR$/Assets/MainMenu.cs" />
       </list>
     </option>
   </component>
@@ -74,7 +75,8 @@
       <updated>1603484151789</updated>
       <workItem from="1603484164135" duration="3734000" />
       <workItem from="1603723442028" duration="12091000" />
-      <workItem from="1604676735626" duration="3266000" />
+      <workItem from="1604676735626" duration="3267000" />
+      <workItem from="1604757747052" duration="60000" />
     </task>
     <servers />
   </component>
